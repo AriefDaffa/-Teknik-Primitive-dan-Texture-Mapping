@@ -1,0 +1,3 @@
+﻿  Demo.cpp
+C:\Users\Arifureta\Desktop\Kuliah 2021\GK\Grafika Komputer dan Visualisasi\vs\Lesson02\Demo.cpp(357,2): warning C4305: 'initializing': truncation from 'double' to 'float'
+  Lesson02.vcxproj -> C:\Users\Arifureta\Desktop\Kuliah 2021\GK\Grafika Komputer dan Visualisasi\vs\Debug\Lesson02.exe
